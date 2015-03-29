@@ -5,7 +5,7 @@
 	color:black;
 	padding:auto;
 	margin:auto;
-	float:right;
+	float:left;
 
 }
 #header {
@@ -14,7 +14,16 @@
 	float:right;
 }
 
-#signin.ul {
-	list-style:none;
+.aboutme li {
+	padding-left:10px;
+	padding-right:10px;
+	list-style: none outside none;
 	display:inline;
+}
+#signin {
+	border:none;
+	padding:12;
+	color:white;
+	background-color:blue;
+
 }
