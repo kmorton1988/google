@@ -1,7 +1,14 @@
 #search {
+	display:block;
 	border:1px;
 	background-color:white;
 	color:black;
 	margin:auto;
-	
+	float:right;
+
+}
+#header {
+	padding:10px;
+	display:block;
+	float:right;
 }
