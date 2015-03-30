@@ -3,8 +3,8 @@
 	border:1px;
 	background-color:white;
 	color:black;
-	padding:auto;
-	margin:auto;
+	padding:auto auto;
+	margin:auto auto;
 	float:left;
 
 }
@@ -21,9 +21,10 @@
 	display:inline;
 }
 #signin {
+	display:inherit;
 	border:none;
 	padding:12;
 	color:white;
-	background-color:blue;
+	background-color:#156aea;
 
 }
